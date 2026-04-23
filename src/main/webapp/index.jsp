@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Praneep DevOps</title>
+    <title>Praneep DevOps  Engineer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
