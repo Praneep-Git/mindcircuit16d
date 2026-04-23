@@ -1,26 +1,39 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Prabha Website change  3</title>
+    <title>Praneep DevOps</title>
     <style>
         body {
             font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #1e3c72, #2a5298);
+            color: white;
             text-align: center;
-            background-color: #f4f4f4;
         }
         h1 {
-            color: #2c3e50;
-            margin-top: 50px;
+            margin-top: 100px;
+            font-size: 40px;
         }
         p {
-            color: #555;
+            font-size: 18px;
+        }
+        .box {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            margin: 50px auto;
+            width: 60%;
+            border-radius: 10px;
         }
     </style>
 </head>
 <body>
 
-    <h1>Welcome to Prabha Website</h1>
-    <p>This is my first simple web page deployed using Tomcat.</p>
+    <h1>Praneep DevOps</h1>
+
+    <div class="box">
+        <p>Welcome to my DevOps project deployment.</p>
+        <p>CI/CD Pipeline using Jenkins, GitHub, and Tomcat.</p>
+        <p>Automated build and deployment setup 🚀</p>
+    </div>
 
 </body>
 </html>
