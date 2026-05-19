@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
         - name: fb-pod-cont
-          image: praneepprabha/praneep:5
+          image: praneepprabha/praneep:7
           ports:
             - containerPort: 8080
